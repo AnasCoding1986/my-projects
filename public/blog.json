@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/J3DgkBH/blogging-gone-viral-camera-concept.jpg",
+      "cover": "https://i.ibb.co/J3DgkBH/blogging-gone-viral-camera-concept.jpg",
+      "title": "Lorem Ipsum Dolor Sit Amet",
+      "posted_date": "2024-03-13",
+      "reading_time": "10 mins",
+      "hashtags": ["#Lorem", "#Ipsum", "#Dolor"]
+    },
+    {
+      "id": "2",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/J3DgkBH/blogging-gone-viral-camera-concept.jpg",
+      "cover": "https://i.ibb.co/J3DgkBH/blogging-gone-viral-camera-concept.jpg",
+      "title": "Consectetur Adipiscing Elit",
+      "posted_date": "2024-03-12",
+      "reading_time": "8 mins",
+      "hashtags": ["#Consectetur", "#Adipiscing", "#Elit"]
+    },
+    {
+      "id": "3",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/J3DgkBH/blogging-gone-viral-camera-concept.jpg",
+      "cover": "https://i.ibb.co/J3DgkBH/blogging-gone-viral-camera-concept.jpg",
+      "title": "Sed Do Eiusmod Tempor Incididunt",
+      "posted_date": "2024-03-11",
+      "reading_time": "12 mins",
+      "hashtags": ["#Sed", "#Tempor", "#Incididunt"]
+    },
+    {
+      "id": "4",
+      "author": "Bob Williams",
+      "author_img": "https://i.ibb.co/J3DgkBH/blogging-gone-viral-camera-concept.jpg",
+      "cover": "https://i.ibb.co/J3DgkBH/blogging-gone-viral-camera-concept.jpg",
+      "title": "Ut Labore Et Dolore Magna",
+      "posted_date": "2024-03-10",
+      "reading_time": "15 mins",
+      "hashtags": ["#Ut", "#Labore", "#Dolore"]
+    },
+    {
+      "id": "5",
+      "author": "Eva Brown",
+      "author_img": "https://i.ibb.co/J3DgkBH/blogging-gone-viral-camera-concept.jpg",
+      "cover": "https://i.ibb.co/J3DgkBH/blogging-gone-viral-camera-concept.jpg",
+      "title": "Aliquam Eros Risus, Porta Sit Amet",
+      "posted_date": "2024-03-09",
+      "reading_time": "7 mins",
+      "hashtags": ["#Aliquam", "#Eros", "#Porta"]
+    }
+  ]
+  
